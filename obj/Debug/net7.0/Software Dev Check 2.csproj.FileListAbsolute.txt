@@ -1,0 +1,20 @@
+/Users/kristoferanderson/Projects/Software Dev Check 2/Software Dev Check 2/obj/Debug/net7.0/Software Dev Check 2.csproj.AssemblyReference.cache
+/Users/kristoferanderson/Projects/Software Dev Check 2/Software Dev Check 2/obj/Debug/net7.0/Software Dev Check 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristoferanderson/Projects/Software Dev Check 2/Software Dev Check 2/obj/Debug/net7.0/Software Dev Check 2.AssemblyInfoInputs.cache
+/Users/kristoferanderson/Projects/Software Dev Check 2/Software Dev Check 2/obj/Debug/net7.0/Software Dev Check 2.AssemblyInfo.cs
+/Users/kristoferanderson/Projects/Software Dev Check 2/Software Dev Check 2/obj/Debug/net7.0/Software Dev Check 2.csproj.CoreCompileInputs.cache
+/Users/kristoferanderson/Documents/Code Kentucky/Software-Dev-Check-2/obj/Debug/net7.0/Software Dev Check 2.csproj.AssemblyReference.cache
+/Users/kristoferanderson/Documents/Code Kentucky/Software-Dev-Check-2/obj/Debug/net7.0/Software Dev Check 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristoferanderson/Documents/Code Kentucky/Software-Dev-Check-2/obj/Debug/net7.0/Software Dev Check 2.AssemblyInfoInputs.cache
+/Users/kristoferanderson/Documents/Code Kentucky/Software-Dev-Check-2/obj/Debug/net7.0/Software Dev Check 2.AssemblyInfo.cs
+/Users/kristoferanderson/Documents/Code Kentucky/Software-Dev-Check-2/obj/Debug/net7.0/Software Dev Check 2.csproj.CoreCompileInputs.cache
+/Users/kristoferanderson/Documents/Code Kentucky/Software-Dev-Check-2/bin/Debug/net7.0/Software Dev Check 2
+/Users/kristoferanderson/Documents/Code Kentucky/Software-Dev-Check-2/bin/Debug/net7.0/Software Dev Check 2.deps.json
+/Users/kristoferanderson/Documents/Code Kentucky/Software-Dev-Check-2/bin/Debug/net7.0/Software Dev Check 2.runtimeconfig.json
+/Users/kristoferanderson/Documents/Code Kentucky/Software-Dev-Check-2/bin/Debug/net7.0/Software Dev Check 2.dll
+/Users/kristoferanderson/Documents/Code Kentucky/Software-Dev-Check-2/bin/Debug/net7.0/Software Dev Check 2.pdb
+/Users/kristoferanderson/Documents/Code Kentucky/Software-Dev-Check-2/obj/Debug/net7.0/Software Dev Check 2.dll
+/Users/kristoferanderson/Documents/Code Kentucky/Software-Dev-Check-2/obj/Debug/net7.0/refint/Software Dev Check 2.dll
+/Users/kristoferanderson/Documents/Code Kentucky/Software-Dev-Check-2/obj/Debug/net7.0/Software Dev Check 2.pdb
+/Users/kristoferanderson/Documents/Code Kentucky/Software-Dev-Check-2/obj/Debug/net7.0/Software Dev Check 2.genruntimeconfig.cache
+/Users/kristoferanderson/Documents/Code Kentucky/Software-Dev-Check-2/obj/Debug/net7.0/ref/Software Dev Check 2.dll
